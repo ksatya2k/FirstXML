@@ -3,7 +3,12 @@
 	<App>
 		<pages>
 			<Page title="Title">
-				<content></content>
+				<content>
+					<Lable text="User Name"> </Lable>
+					<Input ></Input>
+					<Lable text="Password"></Lable>
+					<Input type="password"></Input>
+				</content>
 			</Page>
 		</pages>
 	</App>
